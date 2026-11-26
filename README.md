@@ -1,6 +1,8 @@
-# Adult Census Income Classification
+# Machine Learning Assignment 2
 
-**BITS Pilani WILP — M.Tech (AIML/DSE) — Machine Learning Assignment 2**
+BITS ID: 2026CT05153
+Programme: M.Tech AIML Course: Machine Learning
+Assignment: Classification Model Development and Comparative Evaluation
 
 > Working draft: replace the repository URL and review the explanations in your own words before submission.
 
