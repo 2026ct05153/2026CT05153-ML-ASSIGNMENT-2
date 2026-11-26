@@ -170,6 +170,44 @@ The majority-class DummyClassifier achieved accuracy of 0.7606.
 
 Random Forest performed best overall under the selected configurations on this held-out test set. Its accuracy exceeds the majority-class baseline by 10.65 percentage points. The small difference from Decision Tree does not establish statistical superiority. Further work could examine cross-validation, training-only hyperparameter tuning and threshold selection. The dataset contains demographic attributes such as race and sex; subgroup fairness was not evaluated, and these results do not establish suitability for real-world employment or financial decisions.
 
-#### Screenshot from BITS-Virtual-LAB
+#### BITS Virtual Lab execution evidence
 
-![Model comparison](screenshots/Screenshot 2026-11-26 190319.png)
+Figure 1. Notebook identification and environment
+
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/4939ebf0-4c60-4137-bae5-7ada4f1f831c" />
+
+Figure 2. Dataset loading
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/d6d05452-c4be-454d-90b8-62be883ffa5e" />
+ 
+Figure 3. Initial duplicate check
+<img width="1024" height="638" alt="image" src="https://github.com/user-attachments/assets/dea0f5ef-751d-454e-97e4-2ad03c689378" />
+
+Figure 4. Feature identification
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/b2cdca41-da7a-43c4-9fb8-9a89252f87b0" />
+ 
+Figure 5. Preprocessing and train/test shapes
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/69742a1b-0821-4a5d-99a4-9d0240aca9ac" />
+
+Figure 6. Logistic Regression
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/e1977715-5681-4573-b001-f909490ff91f" />
+ 
+Figure 7. Decision Tree
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/69c724b9-2fac-43ef-b476-fef44829a510" />
+
+Figure 8. K-Nearest Neighbors
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/bb335165-c756-400b-bedd-e6c6e258b057" />
+ 
+Figure 9. Naive Bayes
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/a1526dc6-7f89-4a52-b357-07646ddc852a" />
+
+Figure 10. Random Forest
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/055d43cf-8a21-4b09-949a-8397a6fb7ac3" />
+ 
+Figure 11. Model comparison table
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/085156e2-8e1d-40bc-8f50-2d235d124069" />
+
+Figure 12. Individual metric comparison
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/84694bfb-0b8e-48ca-b479-d91862a47020" />
+ 
+Figure 13. Saved project files
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/a5e3abfb-ec87-4282-bc7a-bac3b55a25ed" />
