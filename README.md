@@ -4,8 +4,6 @@ BITS ID: 2026CT05153
 Programme: M.Tech AIML Course: Machine Learning
 Assignment: Classification Model Development and Comparative Evaluation
 
-> Working draft: replace the repository URL and review the explanations in your own words before submission.
-
 ## A. Problem statement
 
 The objective is to predict whether an individual's annual income exceeds $50,000 using demographic and employment-related attributes, and compare five supervised classification algorithms on a common held-out test set.
