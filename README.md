@@ -169,3 +169,7 @@ The majority-class DummyClassifier achieved accuracy of 0.7606.
 ### Conclusion and limitations
 
 Random Forest performed best overall under the selected configurations on this held-out test set. Its accuracy exceeds the majority-class baseline by 10.65 percentage points. The small difference from Decision Tree does not establish statistical superiority. Further work could examine cross-validation, training-only hyperparameter tuning and threshold selection. The dataset contains demographic attributes such as race and sex; subgroup fairness was not evaluated, and these results do not establish suitability for real-world employment or financial decisions.
+
+#### Screenshot from BITS-Virtual-LAB
+
+![Model comparison](screenshots/Screenshot 2026-11-26 190319.png)
